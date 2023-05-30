@@ -1,4 +1,4 @@
-# truss-example
+# truss example
 
 ```
 # pip install baseten truss
